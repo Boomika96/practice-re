@@ -42,4 +42,4 @@ git rm file + commit + push	Yes 	Yes (file only) 	Yes
 Best Practice Recommendation
 For removing both the commit and the file without leaving history, use the hard reset + force push.
 
- 
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh 
