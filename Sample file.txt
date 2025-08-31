@@ -4,4 +4,4 @@ SAMPLE TXT FROM GITHUB
 sample from local machine and for rebase and conflicts
 sample for rebase and conflicts
 local changing for pull and rebase
-rebase and pull differnce and history, commits change form remote 
+gonna conflict using pull from local..........
