@@ -1,2 +1,6 @@
 SAMPLE TEXT FROM VS CODE 
+<<<<<<< HEAD
 again sample from local machine
+=======
+SAMPLE TXT FROM GITHUB
+>>>>>>> 688fc1fcfbca6f5082fc822ef89646f0c54b6ff1
