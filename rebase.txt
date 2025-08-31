@@ -13,3 +13,4 @@ remote remote remote remote remote remote remote remote remote
 local local local
 local local local local local local local local local
 rebase errodr from local and vs code.
+rebase error when fetching from remote
