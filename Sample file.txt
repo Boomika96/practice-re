@@ -1,3 +1,4 @@
 SAMPLE TEXT FROM VS CODE 
 again sample from local machine
 SAMPLE TXT FROM GITHUB
+sample for rebase and conflicts
