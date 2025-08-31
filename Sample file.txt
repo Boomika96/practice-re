@@ -3,3 +3,4 @@ again sample from local machine
 SAMPLE TXT FROM GITHUB
 sample from local machine and for rebase and conflicts
 sample for rebase and conflicts
+local changing for pull and rebase
