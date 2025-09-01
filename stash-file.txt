@@ -3,10 +3,10 @@ git stash
 git stash pop
 git stash apply
 git stash drop# to drop from git list
-<<<<<<< HEAD
 git stash drop stash@{0}
-=======
+<<<<<<< Updated upstream
 git stash drop stash@{0}#to drop from list
->>>>>>> squash-branch
+=======
+>>>>>>> Stashed changes
 git stash clear
 git stash show
