@@ -7,3 +7,6 @@ git stash drop stash@{0}
 git stash drop stash@{0}#to drop from list
 git stash clear
 git stash show.
+git stash drop stash@{0}#to drop from list
+git stash clear
+git stash show
