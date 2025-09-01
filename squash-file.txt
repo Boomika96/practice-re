@@ -1,4 +1,4 @@
-git checkout third
-git merge --squash testing-branch
+git checkout third #(to branch)
+git merge --squash testing-branch #(from branch)
 git commit -m "Squashed commits from testing-branch into third"
 git push origin third
