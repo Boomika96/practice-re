@@ -1,1 +1,8 @@
 git stash practice 
+git stash
+git stash pop
+git stash apply
+git stash drop# to drop from git list
+git stash drop stash@{0}
+git stash clear
+git stash show

@@ -3,3 +3,7 @@ git commit -m "Add awesome new feature"
 git tag -a v2.5 -m "Release version 2.5"
 git push origin main
 git push origin v2.5
+
+to see
+git tag
+git show tage(v1.1)
